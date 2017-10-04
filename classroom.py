@@ -1,4 +1,4 @@
-# gradebook.py
+# classroom.py
 
 class Classroom(object):
 
